@@ -1,4 +1,4 @@
-Here's the content formatted using Markdown:
+
 
 ```markdown
 # JL Logger — Source Code Archival README
@@ -60,10 +60,5 @@ The archive contains only the original source, not compiled binaries or the JL J
 This is an archival repository only. There is no active development. Users are welcome to study, fork, or modernize the code.
 ```
 
-This format uses headers, lists, and inline code blocks to properly organize the content for readability. Let me know if you'd like to tweak anything further!
 
-“JL Logger source code © 2003 Michael K. Loukides (W1JQ). Reproduced solely for archival and historical study. Only the unmodified source code is included; the compiled JAR is not distributed. All rights remain with the author.”
 
-Project Status
-
-This is an archival repository only. There is no active development. Users are welcome to study, fork, or modernize the code.
